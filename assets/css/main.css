@@ -141,7 +141,9 @@ a:after {
 	background-position: center center;
 	min-height: 400px;
 	width: 100%;
-	
+
+    -webkit-filter: hue-rotate(50deg);
+    
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
