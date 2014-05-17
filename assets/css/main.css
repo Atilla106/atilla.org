@@ -238,6 +238,24 @@ a:after {
 	color: #fa961d;
 }
 
+.vertical {
+    border-left: 1px solid #F0F0F0;
+    padding-left: 3%;
+}
+
+#f h4 {
+    text-align: left;
+    color: white;
+}
+
+#f p {
+    color: white;
+}
+
+#f ul {
+    text-align: left;
+}
+
 /****** SECTIONS *****/
 
 .w {
