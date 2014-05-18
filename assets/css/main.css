@@ -76,8 +76,6 @@ a:after {
 .navbar {
 	font-weight: 800;
 	font-size: 14px;
-	padding-top: 15px;
-	padding-bottom: 15px;
 }
 
 .navbar-inverse {
@@ -224,8 +222,8 @@ a:after {
 /* Footer Wrap */
 #f {
 	background: #2d2d2d;
-	padding-top: 30px;
-	padding-bottom: 30px;
+	padding-top: 7px;
+	padding-bottom: 7px;
 }
 
 #f i {
