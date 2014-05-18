@@ -84,7 +84,8 @@ a:after {
 }
 
 .navbar-inverse .navbar-nav > .active > a {
-	background: #ff78blu78
+	/* background: #ff78blu78 */
+    color: #fa961d;
 }
 
 .navbar-inverse .navbar-brand {
