@@ -1,0 +1,48 @@
+{
+  "title": "Les membres",
+  "description": "Retrouvez l'ensemble des roles et leurs fonctions au sein de l'association",
+  "members": [
+    {
+      "name":"Clément VILLAIN",
+      "role":"Président",
+      "img_url":"assets/img/clem.png",
+      "description":"Grand adepte de Python et autres joyeusetés, je m'essaie à tout ce qui touche de près ou de loin à l'algorithmique et aux mathématiques. Je suis en charge de l'association et m'efforce de garder tous ces lurons dans leur cage."
+    },
+    {
+      "name":"Valentin FAMELART",
+      "role":"Vice-Président",
+      "img_url":"http://www.gravatar.com/avatar/9a94cce4ac9781d4e02c62df37308fd2.png",
+      "description":""
+    },
+    {
+      "name":"Alexandra KIENTZ",
+      "role":"Trésorière",
+      "img_url":"assets/img/alexandra.jpg",
+      "description":"Elève ingénieure en première année, mon travail est de gérer le budget de l'association (it's payback time!). J'apprécie l'algo, et mon langage préféré reste le bon vieux C et ses segfaults."
+    },
+    {
+      "name":"José-Alexandre MAYAN",
+      "role":"Administrateur Réseau",
+      "img_url":"http://eistiens.net/media/img/users/avatars/mayanjosea.jpg",
+      "description":"Élève-ingénieur en première année, je suis passionné de sécurité. Mon travail est de m'assurer que les services ne fonctionnent pas tous en même temps, et que le débit en CY106 ne dépasse pas les 100kb par seconde. Je vais aussi m'occuper du club de Reverse Engineering à la rentrée 2014-2015."
+    },
+    {
+      "name":"Antoine GIRARD",
+      "role":"Responsable Communication",
+      "img_url":"assets/img/neeev.jpg",
+      "description":"Élève en classe préparatoire, je suis passionné d'informatique et de nouvelles technologies. Je m'occupe de toute la partie communication de l'association ainsi que de certains projets comme les EisTV (télévisions d'information du campus de Cergy)."
+    },
+    {
+      "name":"Florent CLAPIÉ",
+      "role":"Responsable WEB",
+      "img_url":"assets/img/flo.jpg",
+      "description":"Grand passioné de ride en tout genre, j'aide à la partie Web de l'association."
+    },
+    {
+      "name":"Thomas Henn",
+      "role":"Administrateur Réseau",
+      "img_url":"assets/img/thomas.png",
+      "description":"Élève-ingénieur en deuxième année, passionné par la Science et l'Informatique, je m'efforce d'en apprendre toujours plus. Je participe au développement et à la maintenance des serveur de l'association."
+    }
+  ]
+}
