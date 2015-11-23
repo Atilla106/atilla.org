@@ -1,4 +1,5 @@
 {
+  "about": "active",
   "title": "Les membres",
   "description": "Retrouvez l'ensemble des roles et leurs fonctions au sein de l'association",
   "members": [
@@ -43,6 +44,12 @@
       "role":"Administrateur Réseau",
       "img_url":"assets/img/thomas.png",
       "description":"Élève-ingénieur en deuxième année, passionné par la Science et l'Informatique, je m'efforce d'en apprendre toujours plus. Je participe au développement et à la maintenance des serveur de l'association."
+    },
+    {
+      "name":"Vincent ALVES",
+      "role":"Secrétaire",
+      "img_url":"http://eistiens.net/media/img/users/default_avatar_128.png",
+      "description":""
     }
   ]
 }
