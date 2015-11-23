@@ -34,168 +34,27 @@
     <div class="row centered">
       <h4>NOS COMPÉTENCES</h4>
       <br>
-
+      {{#skills}}
       <!-- First Chart -->
       <div class="col-lg-3">
-        <canvas id="canvas" height="130" width="130"></canvas>
+        <canvas id="canvas_{{id}}" height="130" width="130"></canvas>
         <br>
         <script>
         var doughnutData = [
           {
-            value: 80,
+            value: {{known}},
             color:"#3498db"
           },
           {
-            value : 20,
+            value : {{to_know}},
             color : "#ecf0f1"
           }
         ];
-        var myDoughnut = new Chart(document.getElementById("canvas").getContext("2d")).Doughnut(doughnutData);
+        var myDoughnut = new Chart(document.getElementById("canvas_{{id}}").getContext("2d")).Doughnut(doughnutData);
         </script>
-        <p><b>Python</b></p>
+        <p><b>{{name}}</b></p>
       </div><!-- /col-lg-3 -->
-
-      <!-- Second Chart -->
-      <div class="col-lg-3">
-        <canvas id="canvas2" height="130" width="130"></canvas>
-        <br>
-        <script>
-        var doughnutData = [
-          {
-            value: 70,
-            color:"#3498db"
-          },
-          {
-            value : 30,
-            color : "#ecf0f1"
-          }
-        ];
-        var myDoughnut = new Chart(document.getElementById("canvas2").getContext("2d")).Doughnut(doughnutData);
-        </script>
-        <p><b>Web Development</b></p>
-      </div><!-- /col-lg-3 -->
-
-      <!-- Third Chart -->
-      <div class="col-lg-3">
-        <canvas id="canvas3" height="130" width="130"></canvas>
-        <br>
-        <script>
-        var doughnutData = [
-          {
-            value: 50,
-            color:"#3498db"
-          },
-          {
-            value : 50,
-            color : "#ecf0f1"
-          }
-        ];
-        var myDoughnut = new Chart(document.getElementById("canvas3").getContext("2d")).Doughnut(doughnutData);
-        </script>
-        <p><b>Java</b></p>
-      </div><!-- /col-lg-3 -->
-
-      <!-- Fourth Chart -->
-      <div class="col-lg-3">
-        <canvas id="canvas4" height="130" width="130"></canvas>
-        <br>
-        <script>
-        var doughnutData = [
-          {
-            value: 60,
-            color:"#3498db"
-          },
-          {
-            value : 40,
-            color : "#ecf0f1"
-          }
-        ];
-        var myDoughnut = new Chart(document.getElementById("canvas4").getContext("2d")).Doughnut(doughnutData);
-        </script>
-        <p><b>Système et Réseau</b></p>
-      </div><!-- /col-lg-3 -->
-
-
-      <!-- First Chart -->
-      <div class="col-lg-3">
-        <canvas id="canvas5" height="130" width="130"></canvas>
-        <br>
-        <script>
-        var doughnutData = [
-          {
-            value: 80,
-            color:"#3498db"
-          },
-          {
-            value : 20,
-            color : "#ecf0f1"
-          }
-        ];
-        var myDoughnut = new Chart(document.getElementById("canvas5").getContext("2d")).Doughnut(doughnutData);
-        </script>
-        <p><b>Algorithmique</b></p>
-      </div><!-- /col-lg-3 -->
-
-      <!-- Second Chart -->
-      <div class="col-lg-3">
-        <canvas id="canvas6" height="130" width="130"></canvas>
-        <br>
-        <script>
-        var doughnutData = [
-          {
-            value: 70,
-            color:"#3498db"
-          },
-          {
-            value : 30,
-            color : "#ecf0f1"
-          }
-        ];
-        var myDoughnut = new Chart(document.getElementById("canvas6").getContext("2d")).Doughnut(doughnutData);
-        </script>
-        <p><b>Sécurité</b></p>
-      </div><!-- /col-lg-3 -->
-
-      <!-- Third Chart -->
-      <div class="col-lg-3">
-        <canvas id="canvas7" height="130" width="130"></canvas>
-        <br>
-        <script>
-        var doughnutData = [
-          {
-            value: 90,
-            color:"#3498db"
-          },
-          {
-            value : 10,
-            color : "#ecf0f1"
-          }
-        ];
-        var myDoughnut = new Chart(document.getElementById("canvas7").getContext("2d")).Doughnut(doughnutData);
-        </script>
-        <p><b>Mathématiques</b></p>
-      </div><!-- /col-lg-3 -->
-
-      <!-- Fourth Chart -->
-      <div class="col-lg-3">
-        <canvas id="canvas8" height="130" width="130"></canvas>
-        <br>
-        <script>
-        var doughnutData = [
-          {
-            value: 40,
-            color:"#3498db"
-          },
-          {
-            value : 60,
-            color : "#ecf0f1"
-          }
-        ];
-        var myDoughnut = new Chart(document.getElementById("canvas8").getContext("2d")).Doughnut(doughnutData);
-        </script>
-        <p><b>Électronique</b></p>
-      </div><!-- /col-lg-3 -->
-
+      {{/skills}}
 
     </div><!-- row -->
   </div><!-- container -->
