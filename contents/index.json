@@ -1,0 +1,66 @@
+{
+	"index": "active",
+	"title": "ATILLA - EISTI",
+	"description": "L'Association des Technologies Internet et du Logiciel Libre ou Alternatif",
+	"features": [
+		{
+			"title": "OpenSource",
+			"description":"L'un des premiers buts d'ATILLA est de promouvoir le logiciel libre et de défendre l'internet libre. Nous soutenons des associations telles que la Quadrature du Net ou l'APRIL afin de sensibiliser les étudiants à ces questions.",
+			"icon":"fa-heart"
+		},
+		{
+			"title": "Hacking",
+			"description":"La passion de la bidouille est un point commun des membres d'ATILLA, nous faisons en sorte de toujours porter des projets innovants mêlant à la fois électronique et programmation.",
+			"icon":"fa-laptop"
+		},
+		{
+			"title": "Formations",
+			"description":"Que serait l'EISTI sans les formations ATILLA ! Forte de ses membres passionnés par divers technologies qu'ils souhaitent partager durant des sessions gratuites de formation.",
+			"icon":"fa-trophy"
+		}
+	],
+	"partners": [
+		{"name": "debian", "img_url": "c01_mini.png"},
+		{"name": "FOSDEM", "img_url": "c02_mini.png"},
+		{"name": "Mozilla", "img_url": "c03_mini.png"},
+		{"name": "Python", "img_url": "c04_mini.png"},
+		{"name": "Quadrature", "img_url": "c05_mini.png"},
+		{"name": "April", "img_url": "c06_mini.png"},
+		{"name": "?", "img_url": "c10_mini.png"},
+		{"name": "Arduino", "img_url": "c09_mini.png"},
+		{"name": "Société générale", "img_url": "c07_mini.png"},
+		{"name": "EISTI", "img_url": "c08_mini.png"}
+	],
+	"forge": [
+		{
+			"name": "EISTIENS.NET",
+			"description":"Le réseau social des étudiants de l'EISTI made by ATILLA, un site dynamique construit à l'aide du framework DJANGO.",
+			"icon":"fa-globe"
+		},
+		{
+			"name": "EISTV",
+			"description":"ATILLA a mis en place un système d'affichage dynamique contrôlé par l'intermédiaire d'une interface web. Chaque bâtiment de l'école dispose d'au moins une EisTV.",
+			"icon":"fa-desktop"
+		},
+		{
+			"name": "HACKATON",
+			"description":"Nous organisons et participons à divers hackatons, le Steria Hacking Challenge et le Hacking Week sont des événements incontournables à ATILLA.",
+			"icon":"fa-eye"
+		},
+		{
+			"name": "FOSDEM",
+			"description":"Le plus grand rassemblement de développeurs du monde du libre qui se déroule à Bruxelles est un passage obligé pour tout membre d'ATILLA qui se respecte.",
+			"icon":"fa-linux"
+		},
+		{
+			"name": "ROBOTIQUE",
+			"description":"Nos membres sont aussi des passionnés de robotique dont les projets ont été primés dans plusieurs concours inter-écoles.",
+			"icon":"fa-cog"
+		},
+		{
+			"name": "CLUSTER",
+			"description":"En construisant notre propre cluster de serveurs nous avons acquis une indépendance en matière d'infrastructure nous permettant d'expérimenter avec les dernières technologies.",
+			"icon":"fa-sitemap"
+		}
+	]
+}
