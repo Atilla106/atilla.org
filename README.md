@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-* To install Punch, run `npm install -g punch`
+* To install packages, run `npm install`
 
 * Start the server: `punch s`
 
