@@ -56,49 +56,41 @@
     {
       "name":"Python",
       "known":80,
-      "to_know":20,
       "id":1
     },
     {
       "name":"Web Development",
       "known":70,
-      "to_know":30,
       "id":2
     },
     {
       "name":"Java",
       "known":50,
-      "to_know":50,
       "id":3
     },
     {
       "name":"Système et Réseau",
       "known":60,
-      "to_know":40,
       "id":4
     },
     {
       "name":"Algorithmique",
       "known":80,
-      "to_know":20,
       "id":5
     },
     {
       "name":"Sécurité",
       "known":70,
-      "to_know":30,
       "id":6
     },
     {
       "name":"Mathématiques",
       "known":90,
-      "to_know":10,
       "id":7
     },
     {
       "name":"Électronique",
       "known":40,
-      "to_know":60,
       "id":8
     }
   ]
