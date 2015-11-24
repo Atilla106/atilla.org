@@ -5,5 +5,15 @@
 
 	"server": {
 		"port": 9009
+	},
+
+	"sitemap_generator": {
+		"url_root": "http://atilla.org"
+	},
+
+	"plugins": {
+		"generator_hooks": {
+			"sitemap_generator": "punch-sitemap-generator"
+		}
 	}
 }

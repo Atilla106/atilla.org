@@ -1,0 +1,23 @@
+{
+  "name": "atilla.org",
+  "version": "1.0.0",
+  "description": "Atilla website",
+  "dependencies": {
+    "punch": "^0.5.46",
+    "punch-sitemap-generator": "^0.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atilla106/atilla.org.git"
+  },
+  "author": "Atilla",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/Atilla106/atilla.org/issues"
+  },
+  "homepage": "https://github.com/Atilla106/atilla.org#readme"
+}
