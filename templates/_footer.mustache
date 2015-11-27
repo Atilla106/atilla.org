@@ -52,17 +52,11 @@ var _paq=_paq||[];_paq.push(["setDocumentTitle",document.domain+"/"+document.tit
 				<h4>Services :</h4>
 				<ul>
 					<div class="row fluid">
+						{{#services}}
 						<div class="col-md-4">
-							<li><a href="http://paste.atilla.org">paste.atilla.org</a></li>
-							<li><a href="http://pad.atilla.org">pad.atilla.org</a></li>
+							<li><a href="http://{{link}}">{{title}}</a></li>
 						</div>
-						<div class="col-md-4">
-							<li><a href="http://doc.atilla.org">doc.atilla.org</a></li>
-							<li><a href="http://rer.atilla.org">rer.atilla.org</a></li>
-						</div>
-						<div class="col-md-4">
-							<li><a href="http://edt.atilla.org">edt.atilla.org</a></li>
-						</div>
+						{{/services}}
 					</div>
 				</ul>
 			</div>
