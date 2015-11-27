@@ -26,9 +26,7 @@
 		{"name": "Python", "img_url": "c04_mini.png"},
 		{"name": "Quadrature", "img_url": "c05_mini.png"},
 		{"name": "April", "img_url": "c06_mini.png"},
-		{"name": "?", "img_url": "c10_mini.png"},
 		{"name": "Arduino", "img_url": "c09_mini.png"},
-		{"name": "Société générale", "img_url": "c07_mini.png"},
 		{"name": "EISTI", "img_url": "c08_mini.png"}
 	],
 	"forge": [
