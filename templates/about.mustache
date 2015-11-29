@@ -18,7 +18,9 @@
     {{#members}}
     <div class="col-lg-3">
       <h4>{{role}}</h4>
-      <img class="img-circle" src="{{img_url}}" width="110" height="110" alt="">
+      <object class="img-circle" data="{{img_url}}" width="110" height="110" type="image/png">
+        <img class="img-circle" src="http://cdn.atilla.org/img/default_avatar.png" width="110" height="110" />
+      </object>
       <h4>{{name}}</h4>
       <p>{{description}}</p>
     </div><!-- col-lg-3 -->
