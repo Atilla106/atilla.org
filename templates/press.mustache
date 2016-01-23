@@ -11,7 +11,33 @@
 </div><!--  bluewrap -->
 
 <div class="container">
-  
+  <h2>Ressources graphiques <a href="#"><span class="fa fa-download"></span></a></h2>
+  <p>
+    Vous pouvez utiliser les ressources graphiques contenues dans cette archive
+    pour toutes les communications à propos d'ATILLA.
+  </p>
+  <hr>
+  <h2>Communiqués de presse</h2>
+  <br>
+  <div class="row">
+    {{#press-releases}}
+    <div class="col-sm-1 centered">
+      <a href="{{link}}">
+        <span class="fa fa-download fa-3x"></span>
+      </a>
+    </div>
+    <div class="col-sm-11">
+      <h4 class="media-heading">{{title}}</h4>
+      <p>
+        {{description}}
+      </p>
+      <p class="text-right">
+        <i>Publié le {{date}}</i>
+      </p>
+    </div>
+    {{/press-releases}}
+  </div>
+
 </div>
 
 {{> footer }}
