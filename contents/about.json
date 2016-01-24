@@ -24,7 +24,7 @@
     {
       "name":"José-Alexandre MAYAN",
       "role":"Administrateur Réseau",
-      "img_url":"http://eistiens.net/media/img/users/avatars/mayanjosea.jpg",
+      "img_url":"https://eistiens.net/media/img/users/avatars/mayanjosea.jpg",
       "description":"Élève-ingénieur en première année, je suis passionné de sécurité. Mon travail est de m'assurer que les services ne fonctionnent pas tous en même temps, et que le débit en CY106 ne dépasse pas les 100kb par seconde. Je vais aussi m'occuper du club de Reverse Engineering à la rentrée 2014-2015."
     },
     {
@@ -48,7 +48,7 @@
     {
       "name":"Vincent ALVES",
       "role":"Secrétaire",
-      "img_url":"http://eistiens.net/media/img/users/default_avatar_128.png",
+      "img_url":"https://eistiens.net/media/img/users/default_avatar_128.png",
       "description":""
     }
   ],
