@@ -1,0 +1,13 @@
+{
+  "press": "active",
+  "title": "Presse",
+  "description": "Retrouvez toutes les informations presses et les ressources graphiques",
+  "press-releases": [
+    {
+      "title": "Conférence \"Internet et Libertés\" : Adrienne Charmet (La Quadrature du Net) l'invitée d'ATILLA le 15 février 2016",
+      "description": "Neutralité du Net, vie privée, liberté d’expression, Adrienne Charmet abordera des questions au coeur de l’actualité et présentera les missions et actions conduites par la Quadrature du Net.",
+      "date": "26/01/2016",
+      "link": "assets/pdf/press-release/LQDN-15-02-2016.pdf"
+    }
+  ]
+}
