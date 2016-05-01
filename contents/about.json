@@ -34,10 +34,10 @@
       "description":"Élève en classe préparatoire, je suis passionné d'informatique et de nouvelles technologies. Je m'occupe de toute la partie communication de l'association ainsi que de certains projets comme les EisTV (télévisions d'information du campus de Cergy)."
     },
     {
-      "name":"Florent CLAPIÉ",
-      "role":"Responsable WEB",
-      "img_url":"assets/img/flo.jpg",
-      "description":"Grand passioné de ride en tout genre, j'aide à la partie Web de l'association."
+      "name":"Alexandre TERRIEN",
+      "role":"Responsable des projets Web",
+      "img_url":"assets/img/terrienale.jpg",
+      "description":"Un type qui s'efforce d'apprendre de nouvelles choses tout le temps. Je m'occuperai des différents projets web de l'association, en commençant par eistiens.net. J'ai beau utiliser vim, Awesome et Arch, je ne mors pas."
     },
     {
       "name":"Thomas Henn",
