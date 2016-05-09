@@ -35,9 +35,9 @@
     },
     {
       "name":"Anexandre TERRIEN",
-      "role":"Responsable WEB",
-      "img_url":"https://cdn.atilla.org/img/default_avatar.png",
-      "description":""
+      "role":"Responsable des projets Web",
+      "img_url":"assets/img/terrienale.jpg",
+      "description":"Un type qui s'efforce d'apprendre de nouvelles choses tout le temps. Je m'occuperai des différents projets web de l'association, en commençant par eistiens.net. J'ai beau utiliser vim, Awesome et Arch, je ne mords pas."
     },
        {
       "name":"Martin POZUELO",
