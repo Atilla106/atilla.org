@@ -39,6 +39,11 @@ p {
     text-align: center;
 }
 
+/* Fixed height for description boxes*/
+.member-description {
+	height: 500px;
+}
+
 /* Links */
 a {
     color: #f85c37;
