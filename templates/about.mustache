@@ -16,7 +16,7 @@
   <div class="row centered">
     <br><br>
     {{#members}}
-    <div class="col-lg-3">
+    <div class="col-lg-3 member-description">
       <h4>{{role}}</h4>
       <object class="img-circle" data="{{img_url}}" width="110" height="110" type="image/png">
         <img class="img-circle" src="http://cdn.atilla.org/img/default_avatar.png" width="110" height="110" />
@@ -38,7 +38,7 @@
       <br>
       {{#skills}}
       <!-- First Chart -->
-      <div class="col-lg-3 member-description">
+      <div class="col-lg-3">
         <canvas id="canvas_{{id}}" height="130" width="130"></canvas>
         <br>
         <script>
