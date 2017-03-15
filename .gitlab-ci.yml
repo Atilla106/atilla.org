@@ -1,0 +1,37 @@
+before_script:
+  - id
+  - pwd
+
+stages:
+  - build
+  - deploy
+
+build_app:
+  stage: build
+  script:
+    - npm install
+    - node_modules/punch/bin/punch g
+
+build_archive:
+  stage: build
+  dependencies:
+    - build_app
+  only:
+    - master
+  script:
+    - tar cvzf atilla-org.tar.gz output
+
+deploy_prod:
+  stage: deploy
+  dependencies:
+    - build_archive
+  environment:
+    name: production
+    url: https://atilla.org
+  only:
+    - master
+  script:
+    - eval $(ssh-agent -s)
+    - ssh-add <(echo "$SSH_PRODUCTION_PRIVATE_KEY")
+    - scp atilla-org.tar.gz atilla@webstatic-prod.prod.infra.atilla.org:~/
+    - ssh -t atilla@webstatic-prod.prod.infra.atilla.org "tar -xf atilla-org.tar.gz"
