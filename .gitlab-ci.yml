@@ -4,27 +4,34 @@ before_script:
 
 stages:
   - build
+  - package
   - deploy
 
-build_app:
+build:app:
   stage: build
   script:
     - npm install
     - node_modules/punch/bin/punch g
+  artifacts:
+    paths:
+      - output/
 
-build_archive:
-  stage: build
+package:archive:
+  stage: package
   dependencies:
-    - build_app
+    - build:app
   only:
     - master
   script:
     - tar cvzf atilla-org.tar.gz output
+  artifacts:
+    paths:
+      - atilla-org.tar.gz
 
-deploy_prod:
+deploy:prod:
   stage: deploy
   dependencies:
-    - build_archive
+    - package:archive
   environment:
     name: production
     url: https://atilla.org
