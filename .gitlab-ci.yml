@@ -27,4 +27,4 @@ deploy:prod:
   script:
     - eval $(ssh-agent -s)
     - ssh-add <(echo "$SSH_PRODUCTION_PRIVATE_KEY")
-    - rsync --checksum --recursive --delete --delete-during --itemize-changes --verbose output/ atilla@webstatic-prod.prod.infra.atilla.org:~/
+    - rsync --checksum --recursive --delete --delete-during --itemize-changes --verbose output/ atilla@webstatic-prod.prod.infra.atilla.org:~/website
