@@ -3,7 +3,31 @@
   "title": "Les membres",
   "description": "Retrouvez l'ensemble des roles et leurs fonctions au sein de l'association",
   "members": [
-       
+        {       "name":"Laurie VIDRIL",
+                "role":"Présidente",       
+                "img_url": "",
+                "description": ""     
+        },
+         {      "name":"Andrew Epagneaud",
+                "role":"Vice-Président",       
+                "img_url":"",
+                "description":""     
+        },
+         {       "name":"Alice CAUDY",
+                "role":"Trésorière",       
+                "img_url":"",
+                "description":"Passionnée par l'algo et les énigmes en tout genre! Attention! ne pas me déranger quand j'ai pas pris mon café!"     
+        },
+         {      "name":"Clémentine Rousseau",
+                "role":"Secrétaire",       
+                "img_url":"",
+                "description":""     
+        },
+         {       "name":"Kévin JORDAN",
+                "role":"Respo projets/évènements",       
+                "img_url":"",
+                "description":""     
+        }
   ],
   "skills": [
     {
