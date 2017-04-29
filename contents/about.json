@@ -3,55 +3,31 @@
   "title": "Les membres",
   "description": "Retrouvez l'ensemble des roles et leurs fonctions au sein de l'association",
   "members": [
-    {
-      "name":"Clément AUBIN",
-      "role":"Président",
-      "img_url":"assets/img/caubin.jpg",
-      "description":"Étudiant en génie informatique à l'EISTI, je m'occupe de coordonner les différents projets menés par l'association. Passionné par les langages bas niveau, je m'intéresse également au fonctionnement et à l'administration de réseaux. Pendant longtemps sous Arch Linux, j'ai fini par préférer Gentoo ; c'est plus fun :) !"
-    },
-    {
-      "name":"Alexandre CATTEAU",
-      "role":"Vice-Président",
-      "img_url":"https://cdn.atilla.org/img/default_avatar.png",
-      "description":"Passionné par l'informatique depuis mon plus jeune âge, je me plais notamment dans l'étude des systèmes d'exploitation et du réseau. Ma façon de faire de l'informatique ? Tout problème a une infinité de solutions !"
-    },
-    {
-      "name":"Raphaël JAMES",
-      "role":"Trésorier",
-      "img_url":"assets/img/raph.jpg",
-      "description":"Couteau-suisse normand, avec une bonne expérience dans le front. Ma devise : \"Essaie voir ce que ça donne on réparera après !\" #removePython2"
-    },
-    {
-      "name":"Mathilde LECONTE",
-      "role":"Secrétaire",
-      "img_url":"assets/img/lecontemat.png",
-      "description":"Élève-ingénieure à l'EISTI, j'aide à la com' interne et à la gestion des projets. J'aime les maths et l'algo !"
-    },
-    {
-      "name":"Julien BERTHE",
-      "role":"Administrateur Système",
-      "img_url":"http://bret.atilla.org/bret/bret.jpg",
-      "description":"Le mec qu'il faut engueuler quand le wifi déconne, tout simplement."
-    },
-    {
-      "name":"Alexandre TERRIEN",
-      "role":"Responsable des projets Web",
-      "img_url":"assets/img/terrienale.jpg",
-      "description":"Un type qui s'efforce d'apprendre de nouvelles choses tout le temps. Je m'occuperai des différents projets web de l'association, en commençant par eistiens.net. J'ai beau utiliser vim, Awesome et Arch, je ne mords pas."
-    },
-       {
-      "name":"Martin POZUELO",
-      "role":"Responsable évènements",
-      "img_url":"https://cdn.atilla.org/img/default_avatar.png",
-      "description":"Passionné d'algorithmique, un peu perché sur les bords et à fond dans ce qu'il fait (il en fait pas une). Les maths et l'info ne sont pour moi que des moyens pour résoudre des problèmes."
-    },
-    {
-      "name":"Antoine GIRARD",
-      "role":"Responsable Communication",
-      "img_url":"assets/img/neeev.jpg",
-      "description":"Élève en classe préparatoire, je suis passionné d'informatique et de nouvelles technologies. Je m'occupe de toute la partie communication de l'association ainsi que de certains projets comme les EisTV (télévisions d'information du campus de Cergy)."
-    }
-   
+        {       "name":"Laurie VIDRIL",
+                "role":"Présidente",       
+                "img_url": "",
+                "description": ""     
+        },
+         {      "name":"Andrew Epagneaud",
+                "role":"Vice-Président",       
+                "img_url":"",
+                "description":""     
+        },
+         {       "name":"Alice CAUDY",
+                "role":"Trésorière",       
+                "img_url":"",
+                "description":"Passionnée par l'algo et les énigmes en tout genre! Attention! ne pas me déranger quand j'ai pas pris mon café!"     
+        },
+         {      "name":"Clémentine Rousseau",
+                "role":"Secrétaire",       
+                "img_url":"",
+                "description":""     
+        },
+         {       "name":"Kévin JORDAN",
+                "role":"Respo projets/évènements",       
+                "img_url":"",
+                "description":""     
+        }
   ],
   "skills": [
     {
