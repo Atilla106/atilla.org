@@ -8,7 +8,7 @@
                 "img_url": "",
                 "description": ""     
         },
-         {      "name":"Andrew Epagneaud",
+         {      "name":"Andrew EPAGNEAUD",
                 "role":"Vice-Président",       
                 "img_url":"",
                 "description":""     
@@ -16,9 +16,9 @@
          {       "name":"Alice CAUDY",
                 "role":"Trésorière",       
                 "img_url":"",
-                "description":"Passionnée par l'algo et les énigmes en tout genre! Attention! ne pas me déranger quand j'ai pas pris mon café!"     
+                "description":"Passionnée par l'algo et les énigmes en tout genre ! Attention ! Ne pas me déranger quand je n'ai pas pris mon café!"     
         },
-         {      "name":"Clémentine Rousseau",
+         {      "name":"Clémentine ROUSSEAU",
                 "role":"Secrétaire",       
                 "img_url":"",
                 "description":"Adepte du jeu vidéo et fan de My Little Pony, je suis ouverte à la conversation en (presque) toutes circonstances. Si l'impression 3D vous intéresse, c'est à moi qu'il faut en parler ^^"     
@@ -26,7 +26,7 @@
          {       "name":"Kévin JORDAN",
                 "role":"Respo projets/évènements",       
                 "img_url":"",
-                "description":""     
+                "description":"Je suis partout, je m'immisce dans vos vies pour ne jamais en ressortir. L'EISTI est ma maison. Mais il est difficile d'utiliser la dichotomie près de moi"     
         }
   ],
   "skills": [
