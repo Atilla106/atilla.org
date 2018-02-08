@@ -8,25 +8,25 @@
                 "img_url": "",
                 "description": "Allergique à Windows depuis qu'elle a touché à Linux, sa raison d'être est la programmation et son carburant les cookies. Elle aimerait prouver aux Eistiens que l'algo, c'est marrant ; en python 3 de préférence."     
         },
-         {      "name":"Andrew EPAGNEAUD",
-                "role":"Vice-Président",       
-                "img_url":"",
-                "description":"Toujours présent pour plaisanter et fu.. aussi pour travailler !"     
-        },
          {       "name":"Alice CAUDY",
                 "role":"Trésorière",       
                 "img_url":"",
                 "description":"Passionnée par l'algo et les énigmes en tout genre ! Attention ! Ne pas me déranger quand je n'ai pas pris mon café!"     
         },
          {      "name":"Clémentine ROUSSEAU",
-                "role":"Secrétaire",       
+                "role":"Secrétaire & Respo Com",       
                 "img_url":"",
                 "description":"Adepte du jeu vidéo et fan de My Little Pony, je suis ouverte à la conversation en (presque) toutes circonstances. Si l'impression 3D vous intéresse, c'est à moi qu'il faut en parler ^^"     
         },
          {       "name":"Kévin JORDAN",
-                "role":"Respo projets/évènements",       
+                "role":"Respo projets",       
                 "img_url":"",
                 "description":"Je suis partout, je m'immisce dans vos vies pour ne jamais en ressortir. L'EISTI est ma maison. Mais il est difficile d'utiliser la dichotomie près de moi"     
+        },
+         {      "name":"Ufuk YALCIN",
+                "role":"Respo évènements",       
+                "img_url":"",
+                "description":"Je suis passionné par l'informatique en général et j'aime créer des jeux vidéos en tout genre. Ma LV1 est le C++ et ma LV2 le Python."     
         }
   ],
   "skills": [
