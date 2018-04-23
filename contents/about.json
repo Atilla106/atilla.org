@@ -3,30 +3,40 @@
   "title": "Les membres",
   "description": "Retrouvez l'ensemble des roles et leurs fonctions au sein de l'association",
   "members": [
-        {       "name":"Laurie VIDRIL",
-                "role":"Présidente",       
+        {       "name":"Maxime CORBEAU",
+                "role":"Président",       
                 "img_url": "",
-                "description": "Allergique à Windows depuis qu'elle a touché à Linux, sa raison d'être est la programmation et son carburant les cookies. Elle aimerait prouver aux Eistiens que l'algo, c'est marrant ; en python 3 de préférence."     
+                "description": "Accro à Python et aux Rubbik's cubes, donnez moi un des deux pour faire mon bonheur. Squatteur à temps plein d'ATILLA, si on me cherche, commencez par ici."     
         },
-         {       "name":"Alice CAUDY",
-                "role":"Trésorière",       
+         {       "name":"Martin MOUSSET",
+                "role":"Vice-Président & Trésorier",       
                 "img_url":"",
-                "description":"Passionnée par l'algo et les énigmes en tout genre ! Attention ! Ne pas me déranger quand je n'ai pas pris mon café!"     
+                "description":"Je suis un rôliste, brony, troll introvertis. Si vous me cherchez, regardez à ATILLA, j'y suis sûrement. Sinon j'ai aqua-poney."     
         },
-         {      "name":"Clémentine ROUSSEAU",
-                "role":"Secrétaire & Respo Com",       
+         {      "name":"Noa SAFAR",
+                "role":"Secrétaire",       
                 "img_url":"",
-                "description":"Adepte du jeu vidéo et fan de My Little Pony, je suis ouverte à la conversation en (presque) toutes circonstances. Si l'impression 3D vous intéresse, c'est à moi qu'il faut en parler ^^"     
+                "description":"J'aime surtout l'orienté objet (Java!) mais j'ai appris à connaître les pygames cette année. Attention quand on parle de nourriture devant moi le midi!"     
         },
-         {       "name":"Kévin JORDAN",
+         {      "name":"Julie HELBECQUE",
+                "role":"Respo communication",       
+                "img_url":"",
+                "description":"Addict aux séries et aux bonbons !! J'envahis votre espace vital et ne vous lache plus JAMAIS. Je renie le C pour consacrer mon culte au Java."     
+        },
+         {      "name":"Cyrille COQUARD",
                 "role":"Respo projets",       
                 "img_url":"",
-                "description":"Je suis partout, je m'immisce dans vos vies pour ne jamais en ressortir. L'EISTI est ma maison. Mais il est difficile d'utiliser la dichotomie près de moi"     
+                "description":"Je suis une marmotte, si je push pas sur git c'est que j'hiberne. Un indice, je fais plus souvent le second."     
         },
-         {      "name":"Ufuk YALCIN",
+         {      "name":"Simon HAMEL",
                 "role":"Respo évènements",       
                 "img_url":"",
-                "description":"Je suis passionné par l'informatique en général et j'aime créer des jeux vidéos en tout genre. Ma LV1 est le C++ et ma LV2 le Python."     
+                "description":"-Nous sommes de retour\n-Afin de préserver le monde de la désinformation\n-Afin d'écraser Windows et Macintosh\n-Simon !\n-La Team Event plus rapide que la fibre optique!"     
+        },
+         {      "name":"Mathieu CHAUVIN",
+                "role":"Respo évènements",       
+                "img_url":"",
+                "description":"-Pour vous montrer que nous valons le détour\n-Afin de rallier tous les codes à notre programmation\n-Afin d'étendre notre réseau jusqu'à la voie lactée\n-Mathieu !\n-Venez tous, ou ce sera la guerre!"     
         }
   ],
   "skills": [
@@ -42,12 +52,12 @@
     },
     {
       "name":"Java",
-      "known":50,
+      "known":70,
       "id":3
     },
     {
       "name":"Système et Réseau",
-      "known":60,
+      "known":50,
       "id":4
     },
     {
@@ -67,7 +77,7 @@
     },
     {
       "name":"Électronique",
-      "known":40,
+      "known":30,
       "id":8
     }
   ]
