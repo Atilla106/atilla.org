@@ -18,7 +18,9 @@
     {{#members}}
     <div class="col-lg-3 member-description">
       <h4>{{role}}</h4>
-        <img class="img-circle" src="https://cdn.atilla.org/img/default_avatar.png" width="110" height="110" />
+        {{! If / else structure that tests wether img_url is defined for the current member. }}
+        {{! As mustache templates are supposed to be logic-less, some repetition is needed to do the trick. }}
+        <img class="img-circle" src="{{#img_url}}{{img_url}}{{/img_url}}{{^img_url}}https://cdn.atilla.org/img/default_avatar.png{{/img_url}}" width="110" height="110" />
       <h4>{{name}}</h4>
       <p>{{description}}</p>
     </div><!-- col-lg-3 -->
