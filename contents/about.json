@@ -5,7 +5,7 @@
   "members": [
         {       "name":"Maxime CORBEAU",
                 "role":"Président",       
-                "img_url": "",
+                "img_url": "assets/img/MaximeCorbeau.png",
                 "description": "Accro à Python et aux Rubbik's cubes, donnez moi un des deux pour faire mon bonheur. Squatteur à temps plein d'ATILLA, si on me cherche, commencez par ici."     
         },
          {       "name":"Martin MOUSSET",
@@ -15,28 +15,28 @@
         },
          {      "name":"Noa SAFAR",
                 "role":"Secrétaire",       
-                "img_url":"",
+                "img_url":"assets/img/NoaSafar.png",
                 "description":"J'aime surtout l'orienté objet (Java!) mais j'ai appris à connaître les pygames cette année. Attention quand on parle de nourriture devant moi le midi!"     
         },
          {      "name":"Julie HELBECQUE",
                 "role":"Respo communication",       
-                "img_url":"",
+                "img_url":"assets/img/JulieHelbecque.png",
                 "description":"Addict aux séries et aux bonbons !! J'envahis votre espace vital et ne vous lache plus JAMAIS. Je renie le C pour consacrer mon culte au Java."     
         },
          {      "name":"Cyrille COQUARD",
                 "role":"Respo projets",       
-                "img_url":"",
+                "img_url":"assets/img/CyrilleCoquard.png",
                 "description":"Je suis une marmotte, si je push pas sur git c'est que j'hiberne. Un indice, je fais plus souvent le second."     
         },
          {      "name":"Simon HAMEL",
                 "role":"Respo évènements",       
-                "img_url":"",
-                "description":"-Nous sommes de retour\n-Afin de préserver le monde de la désinformation\n-Afin d'écraser Windows et Macintosh\n-Simon !\n-La Team Event plus rapide que la fibre optique!"     
+                "img_url":"assets/img/SimonHamel.png",
+                "description":"-Nous sommes de retour\n-Afin de préserver le monde de la désinformation\n-Afin d'écraser Windows et Macintosh\n-Simon !\n-La Team Event plus rapide que la fibre optique !"     
         },
          {      "name":"Mathieu CHAUVIN",
                 "role":"Respo évènements",       
-                "img_url":"",
-                "description":"-Pour vous montrer que nous valons le détour\n-Afin de rallier tous les codes à notre programmation\n-Afin d'étendre notre réseau jusqu'à la voie lactée\n-Mathieu !\n-Venez tous, ou ce sera la guerre!"     
+                "img_url":"assets/img/MathieuChauvin.png",
+                "description":"-Pour vous montrer que nous valons le détour\n-Afin de rallier tous les codes à notre programmation\n-Afin d'étendre notre réseau jusqu'à la voie lactée\n-Mathieu !\n-Venez tous, ou ce sera la guerre !"     
         }
   ],
   "skills": [
