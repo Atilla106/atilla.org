@@ -3,82 +3,30 @@
   "title": "Les membres",
   "description": "Retrouvez l'ensemble des roles et leurs fonctions au sein de l'association",
   "members": [
-        {       "name":"Maxime CORBEAU",
+        {       "name":"Jérémy CHRETIEN",
                 "role":"Président",       
                 "img_url": "assets/img/MaximeCorbeau.png",
-                "description": "Accro à Python et aux Rubbik's cubes, donnez moi un des deux pour faire mon bonheur. Squatteur à temps plein d'ATILLA, si on me cherche, commencez par ici."     
+                "description": "Passionné de maths, d'algorithmique et de jeu de rôle. Je passe mon temps libre (et plus) sur CodinGame. Je code énormément en Pyhton3 et je passe mes journées à ATILLA."     
         },
-         {       "name":"Martin MOUSSET",
-                "role":"Vice-Président & Trésorier",       
+         {       "name":"Frank DAY",
+                "role":"Vice-Président & Respo entreprise",       
                 "img_url":"assets/img/MartinMousset.png",
-                "description":"Je suis un rôliste, brony, troll introvertis. Si vous me cherchez, regardez à ATILLA, j'y suis sûrement. Sinon j'ai aqua-poney. Faites du PROLOG !"     
+                "description":"Homme à tout faire. Si je suis pas là, je suis en PLS. Si t'as une question, je saurai te rediriger."     
         },
-         {      "name":"Noa SAFAR",
-                "role":"Secrétaire",       
+         {      "name":"Arthur PERRINGAUX",
+                "role":"Secrétaire & Respo communication",       
                 "img_url":"assets/img/NoaSafar.png",
-                "description":"J'aime surtout l'orienté objet (Java!) mais j'ai appris à connaître les pygames cette année. Attention quand on parle de nourriture devant moi le midi!"     
+                "description":"J'ai découvert l'informatique avant l'eisti, désormais cela est une véritable passion. Je suis adepte du développement web et de Python, j'aimerais me diversifier et apporter mon amour pour l'informatique aux autres. Atilla, aujourd'hui est non seulement mon repère d'information mais aussi ma nouvelle maison. <3"     
         },
-         {      "name":"Julie HELBECQUE",
-                "role":"Respo communication",       
+         {      "name":"Jason GYZELINCK",
+                "role":"Trésorier",       
                 "img_url":"assets/img/JulieHelbecque.png",
-                "description":"Addict aux séries et aux bonbons !! J'envahis votre espace vital et ne vous lache plus JAMAIS. Je renie le C pour consacrer mon culte au Java."     
+                "description":"Rôliste et adepte de la programmation orienté objet. D’après le mythe, j’apporterais la toison d’or à Atilla."     
         },
-         {      "name":"Cyrille COQUARD",
+         {      "name":"Judith SASPORTES",
                 "role":"Respo projets",       
                 "img_url":"assets/img/CyrilleCoquard.png",
-                "description":"Je suis une marmotte, si je push pas sur git c'est que j'hiberne. Un indice, je fais plus souvent le second."     
+                "description":"Adepte de démineur, je passe la plupart de mon temps à ATILLA ou à l'Art Scène. La légende dit que je paye un loyer, mais je ne sais pas pourquoi."     
         },
-         {      "name":"Simon HAMEL",
-                "role":"Respo évènements",       
-                "img_url":"assets/img/SimonHamel.png",
-                "description":"-Nous sommes de retour\n-Afin de préserver le monde de la désinformation\n-Afin d'écraser Windows et Macintosh\n-Simon !\n-La Team Event plus rapide que la fibre optique !"     
-        },
-         {      "name":"Mathieu CHAUVIN",
-                "role":"Respo évènements",       
-                "img_url":"assets/img/MathieuChauvin.png",
-                "description":"-Pour vous montrer que nous valons le détour\n-Afin de rallier tous les codes à notre programmation\n-Afin d'étendre notre réseau jusqu'à la voie lactée\n-Mathieu !\n-Venez tous, ou ce sera la guerre !"     
-        }
   ],
-  "skills": [
-    {
-      "name":"Python",
-      "known":80,
-      "id":1
-    },
-    {
-      "name":"Web Development",
-      "known":70,
-      "id":2
-    },
-    {
-      "name":"Java",
-      "known":70,
-      "id":3
-    },
-    {
-      "name":"Système et Réseau",
-      "known":50,
-      "id":4
-    },
-    {
-      "name":"Algorithmique",
-      "known":80,
-      "id":5
-    },
-    {
-      "name":"Sécurité",
-      "known":70,
-      "id":6
-    },
-    {
-      "name":"Mathématiques",
-      "known":90,
-      "id":7
-    },
-    {
-      "name":"Électronique",
-      "known":30,
-      "id":8
-    }
-  ]
 }
