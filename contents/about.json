@@ -28,5 +28,47 @@
                 "img_url":"assets/img/CyrilleCoquard.png",
                 "description":"Adepte de démineur, je passe la plupart de mon temps à ATILLA ou à l'Art Scène. La légende dit que je paye un loyer, mais je ne sais pas pourquoi."     
         }
+  ],
+  "skills": [
+    {
+      "name":"Python",
+      "known":80,
+      "id":1
+    },
+    {
+      "name":"Web Development",
+      "known":70,
+      "id":2
+    },
+    {
+      "name":"Java",
+      "known":70,
+      "id":3
+    },
+    {
+      "name":"Système et Réseau",
+      "known":50,
+      "id":4
+    },
+    {
+      "name":"Algorithmique",
+      "known":80,
+      "id":5
+    },
+    {
+      "name":"Sécurité",
+      "known":70,
+      "id":6
+    },
+    {
+      "name":"Mathématiques",
+      "known":90,
+      "id":7
+    },
+    {
+      "name":"Électronique",
+      "known":30,
+      "id":8
+    }
   ]
 }
