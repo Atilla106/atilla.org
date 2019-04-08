@@ -11,7 +11,7 @@
          {       "name":"Frank DAY",
                 "role":"Vice-Président & Respo entreprise",       
                 "img_url":"assets/img/MartinMousset.png",
-                "description":"Homme à tout faire. Si je suis pas là, je suis en PLS. Si t'as une question, je saurai te rediriger."     
+                "description":"Homme à tout faire. Si je suis pas là, je suis en PLS. Si t'as une question, je connais quelqu'un."     
         },
          {      "name":"Arthur PERRINGAUX",
                 "role":"Secrétaire & Respo communication",       
@@ -28,5 +28,5 @@
                 "img_url":"assets/img/CyrilleCoquard.png",
                 "description":"Adepte de démineur, je passe la plupart de mon temps à ATILLA ou à l'Art Scène. La légende dit que je paye un loyer, mais je ne sais pas pourquoi."     
         },
-  ],
+  ]
 }
