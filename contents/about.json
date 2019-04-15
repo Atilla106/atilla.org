@@ -5,27 +5,27 @@
   "members": [
         {       "name":"Jérémy CHRETIEN",
                 "role":"Président",       
-                "img_url": "assets/img/MaximeCorbeau.png",
+                "img_url": "assets/img/JeremyChretien.png",
                 "description": "Passionné de maths, d'algorithmique et de jeu de rôle. Je passe mon temps libre (et plus) sur CodinGame. Je code énormément en Pyhton3 et je passe mes journées à ATILLA."     
         },
          {       "name":"Frank DAY",
                 "role":"Vice-Président & Respo entreprise",       
-                "img_url":"assets/img/MartinMousset.png",
+                "img_url":"assets/img/FrankDay.png",
                 "description":"Homme à tout faire. Si je suis pas là, je suis en PLS. Si t'as une question, je connais quelqu'un."     
         },
          {      "name":"Arthur PERRINGAUX",
                 "role":"Secrétaire & Respo communication",       
-                "img_url":"assets/img/NoaSafar.png",
-                "description":"J'ai découvert l'informatique avant l'eisti, désormais cela est une véritable passion. Je suis adepte du développement web et de Python, j'aimerais me diversifier et apporter mon amour pour l'informatique aux autres. Atilla, aujourd'hui est non seulement mon repère d'information mais aussi ma nouvelle maison. <3"     
+                "img_url":"assets/img/ArthurPerringaux.png",
+                "description":"J'ai découvert l'informatique avant l'EISTI, désormais cela est une véritable passion. Je suis adepte du développement web et de Python, j'aimerais me diversifier et apporter mon amour pour l'informatique aux autres. Atilla, aujourd'hui est non seulement mon repère d'information mais aussi ma nouvelle maison. <3"     
         },
          {      "name":"Jason GYZELINCK",
                 "role":"Trésorier",       
-                "img_url":"assets/img/JulieHelbecque.png",
+                "img_url":"assets/img/JasonGyzelinck.png",
                 "description":"Rôliste et adepte de la programmation orienté objet. D’après le mythe, j’apporterais la toison d’or à Atilla."     
         },
          {      "name":"Judith SASPORTES",
                 "role":"Respo projets",       
-                "img_url":"assets/img/CyrilleCoquard.png",
+                "img_url":"assets/img/JudithSasportes.png",
                 "description":"Adepte de démineur, je passe la plupart de mon temps à ATILLA ou à l'Art Scène. La légende dit que je paye un loyer, mais je ne sais pas pourquoi."     
         }
   ],
