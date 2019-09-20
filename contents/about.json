@@ -25,8 +25,8 @@
         },
         {      "name":"Alexis DURIF MEUNIER",
                 "role":"Vice Trésorier",       
-                "img_url":"assets/img/AlexisDurif.png",
-                "description":"Adepte de démineur, je passe la plupart de mon temps à ATILLA ou à l'Art Scène. La légende dit que je paye un loyer, mais je ne sais pas pourquoi."     
+                "img_url":"assets/img/AlexisDurifMeunier.png",
+                "description":"привет ! Autant féru d'informatique que de sport, le Metal et les voyages guident ma vie. Ancien woweur je suis passionné de maths de code et bricoleur à temps partiel. Parfois dans le milieu on m'appelle six-packs, mais je sais jamais de quoi on parle."     
         },
          {      "name":"Judith SASPORTES",
                 "role":"Respo évents & projets",       
@@ -36,12 +36,12 @@
          {      "name":"Pierre DOUCET",
                 "role":"Respo communication",       
                 "img_url":"assets/img/PierreDoucet.png",
-                "description":"Adepte de démineur, je passe la plupart de mon temps à ATILLA ou à l'Art Scène. La légende dit que je paye un loyer, mais je ne sais pas pourquoi."     
+                "description":"Respo com' le jour, respo bières la nuit. Viens me voir si tu l'oses, tu sauras nous trouver avec Team-Beer !"     
         },
          {      "name":"Rodolphe SEVIN",
                 "role":"Respo entreprises",       
                 "img_url":"assets/img/RodolpheSevin.png",
-                "description":"Adepte de démineur, je passe la plupart de mon temps à ATILLA ou à l'Art Scène. La légende dit que je paye un loyer, mais je ne sais pas pourquoi."     
+                "description":"Mon rôle ? Démarcher des entreprises à la manière de Samuel Umtiti."     
         }
          
   ],

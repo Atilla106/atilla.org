@@ -6,19 +6,11 @@
     },
     {
       "title":"Documentation",
-      "link":"doc.atilla.org"
+      "link":"wiki.atilla.org"
     },
     {
       "title":"Pad",
       "link":"pad.atilla.org"
-    },
-    {
-      "title":"RER",
-      "link":"rer.atilla.org/v2"
-    },
-    {
-      "title":"Multiboard",
-      "link":"multiboard.atilla.org"
     },
     {
       "title":"Learn",
@@ -27,14 +19,6 @@
     {
       "title":"Blog",
       "link":"blog.atilla.org"
-    },
-    {
-      "title":"Kanboard",
-      "link":"kan.atilla.org"
-    },
-    {
-      "title":"Taiga",
-      "link":"taiga.atilla.org"
     }
   ]
 }
