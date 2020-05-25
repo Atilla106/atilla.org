@@ -29,7 +29,7 @@
                 "description":"привет ! Autant féru d'informatique que de sport, le Metal et les voyages guident ma vie. Ancien woweur je suis passionné de maths de code et bricoleur à temps partiel. Parfois dans le milieu on m'appelle six-packs, mais je sais jamais de quoi on parle."     
         },
          {      "name":"Judith SASPORTES",
-                "role":"Respo évents & projets",       
+                "role":"Respo évents & projets, Responsable en chef de la trésorerie, Vice-présidente par intérim, Grammar nazi, Master drama, Maman, Co pilote, Respo style, Respo admyn sys, Respo com, Recruteuse de talent, Respo pizza",       
                 "img_url":"assets/img/JudithSasportes.png",
                 "description":"Adepte de démineur, je passe la plupart de mon temps à ATILLA ou à L'Art Scène. La légende dit que je paye un loyer, mais je ne sais pas pourquoi."     
         },
@@ -52,8 +52,8 @@
       "id":1
     },
     {
-      "name":"Web Development",
-      "known":70,
+      "name":"Développement WEB",
+      "known":75,
       "id":2
     },
     {
@@ -82,8 +82,8 @@
       "id":7
     },
     {
-      "name":"Électronique",
-      "known":30,
+      "name":"Javascript",
+      "known":75,
       "id":8
     }
   ]
