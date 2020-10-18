@@ -45,6 +45,12 @@
         }
          
   ],
+  "adminSys":[
+    {
+      "role": "admininstrateur  Système",
+      "description":" les admin-Sys c'est avant tout les BG de l'asso ",
+      "img_url":"assets/img/adminSys.jpg"
+    }],
   "skills": [
     {
       "name":"Python",

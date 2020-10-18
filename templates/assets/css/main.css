@@ -472,3 +472,14 @@ a:after {
     margin:auto;
     padding-top: 20px;
 }
+#adminSys h4{
+    border-top:2px solid orange;
+    padding-top:50px;
+    text-align: center;
+    padding-bottom:50px;
+}
+#adminSys p{
+    text-align: center;
+    padding-top:200px;
+
+}
