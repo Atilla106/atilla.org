@@ -3,27 +3,27 @@
   "title": "Les membres",
   "description": "Retrouvez l'ensemble des roles et leurs fonctions au sein de l'association",
   "members": [
-        {       "name":"Jérémy CHRETIEN",
+        {       "name":"Loic Ferreira",
                 "role":"Président",       
-                "img_url": "assets/img/JeremyChretien.png",
+                "img_url": "assets/img/LoicFerreira.png",
                 "description": "Passionné de maths, d'algorithmique et de jeu de rôle. Je passe mon temps libre (et plus) sur CodinGame. Je code énormément en Pyhton3 et je passe mes journées à ATILLA."     
         },
          {       "name":"Frank DAY",
                 "role":"Vice-Président",       
-                "img_url":"assets/img/FrankDay.png",
+                "img_url":"assets/img/AntoineDelay.png",
                 "description":"Homme à tout faire. Si je suis pas là, je suis sur Albion. Si t'as une question, je connais quelqu'un."     
         },
-         {      "name":"Arthur PERRINGAUX",
+         {      "name":"Guillaume Ricou",
                 "role":"Secrétaire",       
-                "img_url":"assets/img/ArthurPerringaux.png",
+                "img_url":"assets/img/GuillaumeRicou.jpg",
                 "description":"J'ai découvert l'informatique avant l'EISTI, désormais cela est une véritable passion. Je suis adepte du développement web et de Python, j'aimerais me diversifier et apporter mon amour pour l'informatique aux autres. Atilla, aujourd'hui est non seulement mon repère d'information mais aussi ma nouvelle maison. <3"     
         },
-         {      "name":"Jason GYZELINCK",
+         {      "name":"Thomas Heurion",
                 "role":"Trésorier",       
-                "img_url":"assets/img/JasonGyzelinck.png",
+                "img_url":"assets/img/ThomasHeurion.png",
                 "description":"Rôliste et adepte de la programmation orienté objet. D’après le mythe, j’apporterais la toison d’or à Atilla."     
         },
-        {      "name":"Alexis DURIF MEUNIER",
+        {      "name":"",
                 "role":"Vice Trésorier",       
                 "img_url":"assets/img/AlexisDurifMeunier.png",
                 "description":"привет ! Autant féru d'informatique que de sport, le Metal et les voyages guident ma vie. Ancien woweur je suis passionné de maths de code et bricoleur à temps partiel. Parfois dans le milieu on m'appelle six-packs, mais je sais jamais de quoi on parle."     
