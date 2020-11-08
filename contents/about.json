@@ -3,64 +3,72 @@
   "title": "Les membres",
   "description": "Retrouvez l'ensemble des roles et leurs fonctions au sein de l'association",
   "members": [
-        {       "name":"Loic FERREIRA",
-                "role":"Président",       
-                "img_url": "assets/img/LoicFerreira.png",
-                "description": "404 not found : Erreur classique qui survient souvent quand on demande à un eistien de travailler"     
+        {       
+            "name":"Loic FERREIRA",
+            "role":"Président",       
+            "img_url": "assets/img/LoicFerreira.png",
+            "description": "404 not found : Erreur classique qui survient souvent quand on demande à un eistien de travailler"     
         },
-         {       "name":"Antoine DELAY",
-                "role":"Vice-Président",       
-                "img_url":"assets/img/AntoineDelay.png",
-                "description":"Amateur de musique et de code foireux, si un programme marche pas, je peux aider , à tes risques et périls :)"     
+         {       
+            "name":"Antoine DELAY",
+            "role":"Vice-Président",       
+            "img_url":"assets/img/AntoineDelay.png",
+            "description":"Amateur de musique et de code foireux, si un programme marche pas, je peux aider , à tes risques et périls :)"     
         },
-         {      "name":"Guillaume RICOU",
-                "role":"Secrétaire",       
-                "img_url":"assets/img/GuillaumeRicou.png",
-                "description":"Mes trucs, ce sont les maths et l'algorithmique. En programmation, je suis adepte de Python. Mais ce que je préfère par dessus tout : les échecs, alors n'hésitez pas à passer à ATILLA faire une partie !"
+         {  
+            "name":"Guillaume RICOU",
+            "role":"Secrétaire",       
+            "img_url":"assets/img/GuillaumeRicou.png",
+            "description":"Mes trucs, ce sont les maths et l'algorithmique. En programmation, je suis adepte de Python. Mais ce que je préfère par dessus tout : les échecs, alors n'hésitez pas à passer à ATILLA faire une partie !"
                     
         },
-         {      "name":"Thomas HEURION",
-                "role":"Trésorier",       
-                "img_url":"assets/img/ThomasHeurion.png",
-                "description":" J’aime bien programmer en Java et terroriser ceux qui ne verrouillent pas leur PC au local. Je fais souvent des blagues loupées et on dit que mon humour est douteux mais bon, c’est pas grave tant qu’il y a de la raclette en jeu !"
+         {  
+            "name":"Thomas HEURION",
+            "role":"Trésorier",       
+            "img_url":"assets/img/ThomasHeurion.png",
+            "description":" J’aime bien programmer en Java et terroriser ceux qui ne verrouillent pas leur PC au local. Je fais souvent des blagues loupées et on dit que mon humour est douteux mais bon, c’est pas grave tant qu’il y a de la raclette en jeu !"
         },
         {      
-          "name":"Maxence DORNIER",
-          "role":"Respo communication",       
-          "img_url":"assets/img/MaxenceDornier.png",
-          "description":"404 not found : Erreur classique qui survient souvent qu'en on demande à un eistien de travailler"     
+            "name":"Maxence DORNIER",
+            "role":"Respo communication",       
+            "img_url":"assets/img/MaxenceDornier.png",
+            "description":"404 not found : Erreur classique qui survient souvent qu'en on demande à un eistien de travailler"     
         },
         {      
-          "name":"Sounia",
-          "role":"Pôle communication",       
-          "img_url":"assets/img/",
-          "description":"Unpopular opinion : j’ai bien aimé OCaml. Sinon j’aime bien les mangas et les animes. Passez au local, on pourra discuter, on ne mord pas (tous)"     
+            "name":"Sounia MWAMBIOI",
+            "role":"Pôle communication",       
+            "img_url":"assets/img/SouniaMwambioi.png",
+            "description":"Unpopular opinion : j’ai bien aimé OCaml. Sinon j’aime bien les mangas et les animes. Passez au local, on pourra discuter, on ne mord pas (tous)"     
         },
         {      
-          "name":"Marion GAVART",
-          "role":"Respo Event",       
-          "img_url":"assets/img/MarionGavart.png",
-          "description":"404 not found : Erreur classique qui survient souvent quand on demande à un eistien de travailler"     
+            "name":"Marion GAVART",
+            "role":"Respo Event",       
+            "img_url":"assets/img/MarionGavart.png",
+            "description":"404 not found : Erreur classique qui survient souvent quand on demande à un eistien de travailler"     
         },
-        {      "name":"Robin CAIAZZO",
-                "role":"Pôle Event",       
-                "img_url":"assets/img/RobinCaiazzo.png",
-                "description":" 'Un programme informatique fait ce que vous lui avez dit de faire, pas ce que vous voulez qu'il fasse.'...  Ca m'empêchera jamais de rager sur cette saleté de code."     
+        {    
+            "name":"Robin CAIAZZO",
+            "role":"Pôle Event",       
+            "img_url":"assets/img/RobinCaiazzo.png",
+            "description":" 'Un programme informatique fait ce que vous lui avez dit de faire, pas ce que vous voulez qu'il fasse.'...  Ca m'empêchera jamais de rager sur cette saleté de code."     
         },
-         {      "name":"Sarah NAI",
-                "role":"Admin-sys, mascotte,cup of tea master",       
-                "img_url":"assets/img/SarahNai.png",
-                "description":"404 not found : Erreur classique qui survient souvent quand on demande à un eistien de travailler"       
+         {      
+            "name":"Sarah NAI",
+            "role":" Mascotte,Admin-Sys,Cup Of Tea Master",       
+            "img_url":"assets/img/SarahNai.png",
+            "description":"404 not found : Erreur classique qui survient souvent quand on demande à un eistien de travailler"       
         },
-        {      "name":"Corentin BRILLANT",
-          "role":"Pôle Entreprise",       
-          "img_url":"assets/img/CorentinBrillant.png",
-          "description":"404 not found : Erreur classique qui survient souvent quand on demande à un eistien de travailler"       
+        {     
+            "name":"Corentin BRILLANT",
+            "role":"Pôle Entreprise",       
+            "img_url":"assets/img/CorentinBrillant.png",
+            "description":"404 not found : Erreur classique qui survient souvent quand on demande à un eistien de travailler"       
         },
-        {      "name":"Yassir",
-          "role":"Pôle Projet",       
-          "img_url":"assets/img/Yassir.png",
-          "description":"404 not found : Erreur classique qui survient souvent quand on demande à un eistien de travailler"       
+        {      
+            "name":"Yassir PANCHBAYA",
+            "role":"Pôle Projet",       
+            "img_url":"assets/img/Yassir.png",
+            "description":"404 not found : Erreur classique qui survient souvent quand on demande à un eistien de travailler"       
   }
         
          
@@ -68,7 +76,7 @@
   ],
   "adminSys":[
     {
-      "role": "admin-Sys",
+      
       "description_first": "Les Administrateurs Système c'est les héros sans capes qui, d'un sang froid à toute épreuve, font face aux joies de l'informatique pour maintenir les services de l'asso !",
       "description_second": "Selon la légende, si rien ne marche plus, il suffit de crier \"Admin sys\" trois fois devant son miroir pour qu'un héros apparaisse et règle le problème.",
       "img_url":"assets/img/adminSys.jpg"
