@@ -472,3 +472,30 @@ a:after {
     margin:auto;
     padding-top: 20px;
 }
+
+#admin-sys {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+#admin-sys h4{
+    border-top:2px solid orange;
+    padding-top:50px;
+    text-align: center;
+    padding-bottom:50px;
+}
+
+
+#admin-sys .align-center {
+    display: flex;
+    align-items: center;
+}
+
+#admin-sys .d-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#admin-sys img {
+    padding-bottom: 15px;
+}
