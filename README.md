@@ -4,8 +4,6 @@
 
 * To install packages, run `npm install`
 
-*Update mime using command : `npm install mime@1.3.6`
-
 * Start the server: `punch s`
 
 * Open your browser and visit: http://localhost:9009
