@@ -70,7 +70,7 @@
     {
       "role": "admin-Sys",
       "description_first": "Les Administrateurs Système c'est les héros sans capes qui, d'un sang froid à toute épreuve, font face aux joies de l'informatique pour maintenir les services de l'asso !",
-      "description_second": "Selon la légende, si rien ne marche plus, il suffit de crier \"Admin sys\" trois fois devant son miroir pour qu'un héros apparaisse et règle le problème."
+      "description_second": "Selon la légende, si rien ne marche plus, il suffit de crier \"Admin sys\" trois fois devant son miroir pour qu'un héros apparaisse et règle le problème.",
       "img_url":"assets/img/adminSys.jpg"
     }],
   "skills": [
