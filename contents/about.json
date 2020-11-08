@@ -33,13 +33,13 @@
         {      
           "name":"Sounia",
           "role":"Pôle communication",       
-          "img_url":"assets/img/PierreDoucet.png",
+          "img_url":"assets/img/",
           "description":"Unpopular opinion : j’ai bien aimé OCaml. Sinon j’aime bien les mangas et les animes. Passez au local, on pourra discuter, on ne mord pas (tous)"     
         },
         {      
           "name":"Marion GAVART",
           "role":"Respo Event",       
-          "img_url":"assets/img/PierreDoucet.png",
+          "img_url":"assets/img/MarionGavart.png",
           "description":"404 not found : Erreur classique qui survient souvent quand on demande à un eistien de travailler"     
         },
         {      "name":"Robin CAIAZZO",
