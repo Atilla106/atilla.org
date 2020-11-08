@@ -35,7 +35,7 @@
       {{! As mustache templates are supposed to be logic-less, some repetition is needed to do the trick. }}
       <div class="col-lg-12 d-flex">
         <div class="col-lg-5">
-          <img src="{{#img_url}}{{img_url}}{{/img_url}}{{^img_url}}https://cdn.atilla.org/img/default_avatar.png{{/img_url}}" height="600" width="400"/>
+          <img class="img-responsive" src="{{#img_url}}{{img_url}}{{/img_url}}{{^img_url}}https://cdn.atilla.org/img/default_avatar.png{{/img_url}}" height="600" width="400"/>
         </div>
         <div class="col-lg-7 align-center">
           {{description_first}}
