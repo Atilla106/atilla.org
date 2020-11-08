@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Atilla website",
   "dependencies": {
+    "mime": "^1.6.0",
     "punch": "^0.5.46",
     "punch-sitemap-generator": "^0.0.5"
   },
