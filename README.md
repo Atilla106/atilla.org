@@ -6,10 +6,14 @@
 
 * Start the server: `punch s`
 
+* If it does not work, try `node_modules/punch/bin/punch s`
+
 * Open your browser and visit: http://localhost:9009
 
 ## Build the static website
 
 * punch g
+
+* If it does not work, try `node_modules/punch/bin/punch g`
 
 The static site is in the **output** folder
