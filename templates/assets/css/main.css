@@ -499,3 +499,19 @@ a:after {
 #admin-sys img {
     padding-bottom: 15px;
 }
+
+.animate .member-img:hover {
+    animation: pulse 2s infinite;
+}
+@keyframes pulse {
+    0% {
+        filter: hue-rotate(0);
+    }
+    100% {
+        filter: hue-rotate(360deg);
+    }
+}
+
+.hover-pointer:hover {
+    cursor: pointer;
+}
