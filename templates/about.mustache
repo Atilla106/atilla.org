@@ -1,5 +1,12 @@
 {{> header }}
  <script src="assets/js/Chart.js"></script>
+ <script src="assets/js/jquery-3.5.1.min.js"></script>
+
+ <audio autoplay>
+	<source src="assets/audio/conga.mp3"></source>
+	<source src="assets/audio/conga.ogg"></source>
+</audio>
+
 <div id="blue">
   <div class="container">
     <div class="row centered">
@@ -11,6 +18,14 @@
   </div><!-- container -->
 </div><!--  bluewrap -->
 
+<div class="container w">
+  <div class="row centered">
+    <img id="tux-img" class="hover-pointer" src="assets/img/tux-1.png" width="110" height="100">
+    <br/>
+    <br/>
+    <button id="tux-button" class="btn btn-dark">Click Tux to make them happier !</button>
+  </div>
+</div>
 
 <div class="container w">
   <div class="row centered">
@@ -20,7 +35,7 @@
       <h4>{{role}}</h4>
         {{! If / else structure that tests wether img_url is defined for the current member. }}
         {{! As mustache templates are supposed to be logic-less, some repetition is needed to do the trick. }}
-        <img class="img-circle" src="{{#img_url}}{{img_url}}{{/img_url}}{{^img_url}}https://cdn.atilla.org/img/default_avatar.png{{/img_url}}" width="110" height="110" />
+        <img class="img-circle member-img" src="{{#img_url}}{{img_url}}{{/img_url}}{{^img_url}}https://cdn.atilla.org/img/default_avatar.png{{/img_url}}" width="110" height="110" />
       <h4>{{name}}</h4>
       <p>{{description}}</p>
     </div><!-- col-lg-3 -->
@@ -93,5 +108,28 @@
     </div><!-- row -->
   </div><!-- container -->
 </div><!-- r wrap -->
+
+<script>
+  $(document).ready(function () {
+    var audio = $("audio")[0];
+    $(".member-img").mouseenter(function() {
+      audio.play();
+    })
+    $(".member-img").mouseleave(function() {
+      audio.pause();
+    })
+
+    $("#tux-img").click(function() {
+      $("#tux-img").attr("src", "assets/img/tux-2.png");
+      $("#tux-img").removeClass("hover-pointer");
+      $("#tux-button").prop("disabled", true);
+      $("#tux-button").html("Thank you !");
+      lartscene();
+    })
+    function lartscene() {
+      $("body").toggleClass('animate');
+    }
+  })
+</script>
 
 {{> footer }}
