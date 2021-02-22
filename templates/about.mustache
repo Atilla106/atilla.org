@@ -112,12 +112,20 @@
 <script>
   $(document).ready(function () {
     var audio = $("audio")[0];
-    $(".member-img").mouseenter(function() {
+
+    // Upon first click on a member icon, start the audio,
+    // and make sure it runs when hovering every profile picture
+    $(".member-img").click(function() {
+      $(".member-img").mouseenter(function() {
+        audio.play();
+      });
+      $(".member-img").mouseleave(function() {
+        audio.pause();
+      });
+
+      // The mouse is already on a member image, so we need to start it manually
       audio.play();
-    })
-    $(".member-img").mouseleave(function() {
-      audio.pause();
-    })
+    });
 
     $("#tux-img").click(function() {
       $("#tux-img").attr("src", "assets/img/tux-2.png");
