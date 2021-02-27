@@ -58,13 +58,13 @@
         },
         {
             "name": "Corentin BRILLANT",
-            "role": "Pôle Entreprise",
+            "role": "Respo Entreprise",
             "img_url": "assets/img/CorentinBrillant.png",
             "description": "404 not found : Erreur classique qui survient souvent quand on demande à un eistien de travailler"
         },
         {
             "name": "Yassir PANCHBAYA",
-            "role": "Pôle Projet",
+            "role": "Respo Projet",
             "img_url": "assets/img/Yassir.png",
             "description": "404 not found : Erreur classique qui survient souvent quand on demande à un eistien de travailler"
         }
