@@ -112,16 +112,24 @@
 <script>
   $(document).ready(function () {
     var audio = $("audio")[0];
-
+    var src;
     $("#tux-img").click(function() {
       $("#tux-img").attr("src", "assets/img/tux-2.png");
       $("#tux-img").removeClass("hover-pointer");
       $("#tux-text").html("Thank you !");
 
       $(".member-img").mouseenter(function() {
+        console.log($(this).attr("src").includes("Loic"));
+        if (!$(this).attr("src").includes("Loic") && !$(this).attr("src").includes("Antoine") && !$(this).attr("src").includes("Thomas")) {
+          src = $(this).attr("src");
+          $(this).attr("src", "assets/img/GuillaumeRicou.png");
+        }
         audio.play();
       });
       $(".member-img").mouseleave(function() {
+        if (!$(this).attr("src").includes("Loic") && !$(this).attr("src").includes("Antoine") && !$(this).attr("src").includes("Thomas")) {
+          $(this).attr("src", src);
+        }
         audio.pause();
       });
 
